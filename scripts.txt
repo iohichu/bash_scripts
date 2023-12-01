@@ -1,3 +1,5 @@
+Sergejs Ponomarenko - Disrupting the perfect integrity of the initial file with this vile addition.
+
 Напишите скрипт, который выполнит:
 1 Запишет в файл test.log имя пользователя, под которым вы работаете в системе. Файл должен располагаться в /home/user/test/logs (вывод имени должен быть написан как: your name is: )
 2 Допишет в файл информацию из файла readme.txt из папки /root (но только предпоследнюю строку)
